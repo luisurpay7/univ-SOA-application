@@ -1,0 +1,11 @@
+test\Listar.class
+test\ObjectFactory.class
+com\mycompany\serviciocrudcliente\resources\JavaEE8Resource.class
+Modelo\UserService.class
+test\User.class
+Servlets\Controlador.class
+test\package-info.class
+test\NewWebService_Service.class
+test\NewWebService.class
+com\mycompany\serviciocrudcliente\JAXRSConfiguration.class
+test\ListarResponse.class

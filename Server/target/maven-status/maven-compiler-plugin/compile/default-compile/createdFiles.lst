@@ -1,0 +1,7 @@
+Modelo\CRUD.class
+Modelo\UserDAO.class
+com\mycompany\mavenproject1\resources\JavaEE8Resource.class
+Modelo\User.class
+Modelo\Conexion.class
+Test\NewWebService.class
+com\mycompany\mavenproject1\JAXRSConfiguration.class
